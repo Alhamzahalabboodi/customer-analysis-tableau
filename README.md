@@ -1,6 +1,6 @@
 ## Customer-Analysis-Tableau ##
 
-This project demonstrates how to create a Dashboard using various types of charts including a butterfly chart, a donut chart, a scatter plot and more. I used an online market dataset abd create Customer Analysis Dashboard using Tableau. 
+This project demonstrates how to create a Dashboard using various types of charts including a butterfly chart, a donut chart, a scatter plot and more. I used an online market dataset to create Customer Analysis Dashboards using Tableau. 
 
 ## Link to the Interactive Dashboard ##
 
