@@ -2,6 +2,9 @@
 
 This project demonstrates how to create a Dashboard using various types of charts including a butterfly chart, a donut chart, a scatter plot and more. I used an online market dataset abd create Customer Analysis Dashboard using Tableau. 
 
+## Link to the Interactive Dashboard ##
+
+'https://public.tableau.com/shared/86NN5C5YP?:display_count=n&:origin=viz_share_link'
 
 ## Business questions to answer with visualizations: ##
 
